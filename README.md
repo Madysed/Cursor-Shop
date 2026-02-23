@@ -1,11 +1,4 @@
-⚠️ This project was developed with the assistance of Cursor.
-However, the system architecture, design patterns, and implementation strategies
-are based entirely on up-to-date industry best practices and were fully reviewed and supervised.
-
-
----
-
-# Cursor Shop — Storefront & Admin Dashboard (Next.js 14 Monorepo)
+# Cursor Shop — Storefront & Admin Dashboard
 
 Cursor Shop is a full-stack e-commerce system built with **Next.js 14 (App Router)**.  
 This repository contains two independent but related applications:
@@ -358,3 +351,8 @@ npm run lint
 # 📄 License
 
 MIT License
+
+---
+⚠️ This project was developed with the assistance of Cursor.
+However, the system architecture, design patterns, and implementation strategies
+are based entirely on up-to-date industry best practices and were fully reviewed and supervised.
