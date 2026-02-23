@@ -1,5 +1,10 @@
 # Cursor Shop — Storefront & Admin Dashboard
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c7f6ee3-76ba-49c6-a0c4-492b00f3c5dc" alt="Store" width="48%" />
+  <img src="https://github.com/user-attachments/assets/8af6650c-6da6-4078-aa92-c77e8102cb1a" alt="Admin" width="48%" />
+</p>
+
 Cursor Shop is a full-stack e-commerce system built with **Next.js 14 (App Router)**.  
 This repository contains two independent but related applications:
 
