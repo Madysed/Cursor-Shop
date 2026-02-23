@@ -1,0 +1,44 @@
+{
+  "name": "CursorShop - Your Online Shopping Destination",
+  "short_name": "CursorShop",
+  "description": "Find the best products at great prices with secure checkout and fast delivery",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icons/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "All Products",
+      "short_name": "Products",
+      "description": "Browse all products in our catalog",
+      "url": "/products"
+    },
+    {
+      "name": "My Cart",
+      "short_name": "Cart",
+      "description": "View your shopping cart",
+      "url": "/cart"
+    },
+    {
+      "name": "My Account",
+      "short_name": "Account",
+      "description": "Manage your account settings",
+      "url": "/account"
+    }
+  ]
+} 
